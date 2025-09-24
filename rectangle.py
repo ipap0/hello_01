@@ -6,5 +6,5 @@ else:
     perim = 2 * (length + width)
     area = length * width
 
-    print('площадь равна ', area, ' периметр равен ', perim)
+    #print('площадь равна ', area, ' периметр равен ', perim)
     print(f'площадь равна  {area}  периметр равен  {perim}')
